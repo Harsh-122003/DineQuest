@@ -68,4 +68,10 @@ public class CartActivity extends AppCompatActivity {
         binding.totalTaxTxt.setText("$" + tax);
         binding.totalTxt.setText("$" + total);
     }
+
+    @Override
+    public void onBackPressed() {
+        startActivity(new Intent(CartActivity.this, MainActivity.class));
+        super.onBackPressed();
+    }
 }
