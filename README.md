@@ -1,7 +1,7 @@
 # 😋 DineQuest 🍽
 • Welcome to DineQuest, the ultimate app for all your food cravings! Discover a seamless and enjoyable food ordering experience with our user-friendly platform. Whether you're looking for a quick snack or a gourmet meal, DineQuest has you covered with a diverse range of food categories, detailed item descriptions, and easy-to-use cart management.
 
-# ➡ <b> Features: </b>
+# <b> Features </b>
 
 • <b> Home Page Categories: </b> Explore our extensive selection of food categories right from the home page.
 
@@ -17,6 +17,6 @@
 ↪ Edit Cart: Adjust quantities or remove items as needed. <br>
 ↪ Order Summary: View the total cost of your order, including any applicable taxes and delivery fees.
 
-# ➡ <b> Technology: </b>
+# <b> Technology </b>
 
 • DineQuest leverages the latest technology to ensure a reliable and efficient food ordering process. We utilize Firebase Realtime Database for seamless data management, providing real-time updates and synchronization.
