@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647196340993",
+    "project_id": "dinequest-c4a0e",
+    "storage_bucket": "dinequest-c4a0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647196340993:android:069b638d2c75d9e4092100",
+        "android_client_info": {
+          "package_name": "com.example.dinequest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP7quMPAcOwQW2t09C_o9AiH650SUVKYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
