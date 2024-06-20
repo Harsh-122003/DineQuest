@@ -34,9 +34,6 @@ public class ListFoodActivity extends AppCompatActivity {
         binding = ActivityListFoodBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
-        Window w = getWindow();
-        w.setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS, WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN);
-
         categoryId = getIntent().getIntExtra("CategoryId", 0);
         categoryName = getIntent().getStringExtra("CategoryName");
 
