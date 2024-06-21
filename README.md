@@ -20,3 +20,19 @@
 # <b> Technology </b>
 
 • DineQuest leverages the latest technology to ensure a reliable and efficient food ordering process. We utilize Firebase Realtime Database for seamless data management, providing real-time updates and synchronization.
+
+# <b> Demo </b>
+
+<p align="center">
+  <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/2fee125c-6852-48f2-a979-0303a015563e" height="500">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/e3298ec1-d341-4459-9214-b38ff5a14b5f" height="500">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/a9cc7672-9282-426e-8577-de44273e7b01" height="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/d76c3763-d44d-4d17-9eae-8f88c1385a63" height="500">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/57c81c86-043b-4195-83a3-7d44daf68eb2" height="500">
+</p>
