@@ -24,11 +24,9 @@
 # <b> Demo </b>
 
 <p align="center">
-  <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/2fee125c-6852-48f2-a979-0303a015563e" height="500">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/2fee125c-6852-48f2-a979-0303a015563e" height="500" align="left">
   <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/e3298ec1-d341-4459-9214-b38ff5a14b5f" height="500">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/a9cc7672-9282-426e-8577-de44273e7b01" height="500">
+  <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/a9cc7672-9282-426e-8577-de44273e7b01" height="500" align="right">
 </p>
 
 <p align="center">
