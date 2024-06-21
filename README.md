@@ -28,7 +28,7 @@
   <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/e3298ec1-d341-4459-9214-b38ff5a14b5f" height="500">
   <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/a9cc7672-9282-426e-8577-de44273e7b01" height="500" align="right">
 </p>
-
+<br><br>
 <p align="center">
   <img src="https://github.com/Harsh-122003/DineQuest/assets/115886477/d76c3763-d44d-4d17-9eae-8f88c1385a63" height="500">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
